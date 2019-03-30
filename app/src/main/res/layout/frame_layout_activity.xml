@@ -18,7 +18,7 @@
         android:id="@+id/imagen_background"
         android:layout_gravity="top|center"
         android:scaleType="centerCrop"
-        android:src="@drawable/twitter"/>
+        android:src="@drawable/saprissa"/>
 
     <ImageView
         android:layout_width="wrap_content"
